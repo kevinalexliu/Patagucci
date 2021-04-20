@@ -1,10 +1,10 @@
 const linksList = [
-  { productId: 14040, link: 'dress shoes' },
-  { productId: 14037, link: 'pants' },
-  { productId: 14034, link: 'jackets' },
-  { productId: 14038, link: 'kicks' },
-  { productId: 14036, link: 'Joggers' },
-  { productId: 14041, link: 'Yeasy' },
+  { productId: 23151, link: 'dress shoes' },
+  { productId: 23148, link: 'pants' },
+  { productId: 23145, link: 'jackets' },
+  { productId: 23149, link: 'kicks' },
+  { productId: 23147, link: 'Joggers' },
+  { productId: 23150, link: 'Yeasy' },
 ];
 
 export default linksList;
