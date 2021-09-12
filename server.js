@@ -13,6 +13,7 @@ dotenv.config({
 app.use(express.json());
 app.use('/', express.static(`${__dirname}/dist`));
 app.use('/', express.static(`${__dirname}/public`));
+app.use('/', express.static('index.html'));
 const PORT = 3000;
 
 app.use('/api/products', productRouter);
